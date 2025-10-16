@@ -1,6 +1,6 @@
 a = int(input("Введите число"))
 def config(a):
     if a >= 1:
-        print("намного больше, чем", a)
+        print("намного больше, чем", 1)
 
 config(a)
