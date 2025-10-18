@@ -7,3 +7,4 @@ config(a)
 
 123.
 новая строка в файле
+new branch line
