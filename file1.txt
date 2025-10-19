@@ -4,8 +4,8 @@ def config(a):
         print("Ваше число намного больше, чем", 1)
 
 config(a)
-
 123.
 новая строка в файле
 new branch line
 testing line update
+new line for gui
